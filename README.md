@@ -8,6 +8,7 @@ commands using a web project
 ## Purpose
 As stated above
 ## How To Contributed
+please fork this repository and issue pull request for rview
 
 
 ## Purpose
