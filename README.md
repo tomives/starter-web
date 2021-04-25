@@ -13,6 +13,8 @@ please fork this repository and issue pull request for rview
 
 ## Purpose
 
+Adding some more text for rebase example
+
 Sample website with plenty of files for demos
 
 ##Deployment
