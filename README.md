@@ -13,7 +13,7 @@ please fork this repository and issue pull request for rview
 
 ## Purpose
 
-Adding some more text for rebase example
+Adding some more text for rebase example, then more changes from myfeature branch
 
 Sample website with plenty of files for demos
 
